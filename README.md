@@ -1,8 +1,8 @@
 # 🐰⚡ Energy Wabbits Whitepaper
 
-Welcome to the official Energy Wabbits ecosystem whitepaper.
+Welcome to the official Energy Wabbits staking whitepaper.
 
-Energy Wabbits is a gamified staking ecosystem where holders stake their Wabbits, earn EP (Energy Points), build up their Burrow Stop, generate WB (Wabbit Bucks), and use that value across the wider ecosystem.
+This is a gamified staking ecosystem where holders stake their Wabbits, earn EP (Energy Points), build up their Burrow Stop, generate WB (Wabbit Bucks), and use that value across the wider ecosystem.
 
 ## Core Loop
 
@@ -54,10 +54,11 @@ SOL is used for select premium actions such as daily WB claims, boosts, shop red
 
 - Max WB hold is **25 WB**
 - If your WB storage is full, excess WB is wasted
-- Maintenance must be paid every 24 hours to preserve efficiency
+- Maintenance must be paid to preserve efficiency
 - Boosts increase EP production for 24 hours
 - Activity contributes to your Collab Score and overall ecosystem standing
 
 ## Disclaimer
 
-This whitepaper is for informational purposes only. The Energy Wabbits ecosystem may evolve over time as mechanics, rewards, fees, and functionality are improved.
+This whitepaper is for informational purposes only. The Energy Wabbits staking may evolve over time as mechanics, rewards, fees, and functionality are improved.
+  
